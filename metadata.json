@@ -1,0 +1,6 @@
+{
+  "name": "AppStudio Builder & Prototyper",
+  "description": "Erstelle, konfiguriere und teste deine eigene Web-App in Echtzeit mit interaktiven Prototypen, Live-Daten und Code-Export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
